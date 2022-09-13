@@ -1,0 +1,100 @@
+
+.yazitipi1 {
+    
+    font-family: 'Bree Serif', serif;
+
+
+}
+.yazitipi2 {
+    
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+
+
+.liste1 {
+    color: rgb(0, 94, 255);
+    font-size: 20px;
+    
+    
+}
+
+
+.h1 {
+
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    text-align:center;
+
+
+}
+
+.giris {
+    color:rgb(255, 255, 255); 
+    font-size: 28px;
+    text-align:center;
+    
+}
+
+.buton {
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 25px;
+    color:rgb(255, 255, 255);
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    font-size: 16px;
+    display: inline-block;
+    font-weight: bold;    
+
+}
+
+
+.butonsekli {
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+
+}
+
+
+
+
+.background1{
+
+    background-image: url("images/paper.jpg");
+    border-radius: 25px;
+  
+}
+
+
+.corners1 {
+    border-radius: 22px;
+    padding: 20px;
+    width: 400px;
+    height: 280px;
+    float:left;
+    margin-right: 3%;
+    margin-left: 4%;
+    margin-top: 3%;
+    border: 2px solid #73AD21;
+    font-weight: bold;
+  }
+
+  .fab {
+    padding: 8px;
+    font-size: 20px;
+    width: 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 10px;
+    }
+    .fab:hover {
+    opacity: 0.6;
+    }
+
+
+ 
